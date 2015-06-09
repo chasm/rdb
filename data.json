@@ -1,0 +1,96 @@
+.insert([
+  {
+    id: "graham-greene--the-end-of-the-affair",
+    title: "The End of the Affair",
+    author: "Graham Greene",
+    quotations: [
+      {
+        quotation: [
+          "The sense of unhappiness is so much easier to convey than that of happiness. In misery we seem aware of our own existence, even though it may be in the form of a monstrous egotism: this pain of mine is individual, this nerve that winces belongs to me and to no other. But happiness annihilates us: we lose our identity."
+        ],
+        source: {
+          isbn: "978-0142437988",
+          p: 102
+        },
+        comments: [
+          {
+            userId: "Wz8--SGmQEeDbjx45LBEoQ",
+            name: "Chas.",
+            postedAt: "Tue Jun 09 2015 09:12:35 GMT+00:00",
+            comment: [
+              "Gosh, this is just such a good quote! My favorite quote in the whole world!"
+            ]
+          },
+          {
+            userId: "jpBLx6IqTfyDRTLnctC00A",
+            name: "Julie",
+            postedAt: "Tue Jun 09 2015 09:12:35 GMT+00:00",
+            comment: [
+              "Greene was such a womanizer, it's difficult for me to read his stuff!"
+            ]
+          }
+        ]
+      },
+      {
+        quotation: [
+          "A story has no beginning or end: arbitrarily one chooses that moment of experience from which to look back or from which to look ahead."
+        ],
+        source: {
+          isbn: "978-0142437988",
+          p: 173
+        }
+      },
+      {
+        quotation: [
+          "I can never think of you as a friend. You can do without a friend."
+        ],
+        source: {
+          isbn: "978-0142437988",
+          p: 209
+        }
+      }
+    ]
+  },
+  {
+    id: "graham-greene--the-ministry-of-fear",
+    title: "The Ministry of Fear",
+    author: "Graham Greene",
+    quotations: [
+      {
+        quotation: [
+          "But it is impossible to go through life without trust; that is to be imprisoned in the worst cell of all, oneself."
+        ],
+        source: {
+          isbn: "978-0143039112",
+          p: 51
+        }
+      },
+      {
+        quotation: [
+          "He was filled with horror at the thought of what a child becomes, and what the dead must feel watching the change from innocence to guilt and powerless to stop it."
+        ],
+        source: {
+          isbn: "978-0143039112",
+          p: 180
+        }
+      }
+    ]
+  }
+])
+
+.insert([
+  {
+    id: "Wz8--SGmQEeDbjx45LBEoQ",
+    name: "Chas.",
+    email: "chas@munat.com",
+    digest: "$2a$12$Fn53vnKDZq0LlVCFwqaAB..7rg9b9ABM62c9cwAi7WBV2QqeGfeXy"
+  },{
+    id: "jpBLx6IqTfyDRTLnctC00A",
+    name: "Julie",
+    email: "julie@munat.com",
+    digest: "$2a$12$CYf0zxhvzie8ql/pfpQC0ekON07t4DciP.9gjMLCb9Zhb04pWvl4m"
+  }
+])
+
+
+
