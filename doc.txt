@@ -1,1 +1,1 @@
-npm i -S koa koa-better-body koa-logger koa-mount koa-passport koa-router koa-session koa-static rethinkdbdash
+npm i -S koa koa-better-body koa-hbs koa-logger koa-mount koa-passport koa-router koa-session koa-static rethinkdbdash
